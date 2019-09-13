@@ -1,0 +1,3 @@
+rootProject.name = 'ServerTools'
+include 'SoftLauncher'
+
